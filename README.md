@@ -1,7 +1,10 @@
 # Data_Pipeline
 
 ## Overview  
-This project is a full data engineering pipeline that involves data ingestion, transformation, storage, and processing. The goal is to build an end-to-end system that efficiently handles large-scale data and enables insights through structured storage and querying.
+This project is a full data engineering pipeline that involves data ingestion, transformation, storage, and processing. The goal is to build an end-to-end system that efficiently handles large-scale data and enables insights through structured storage and querying.  
+
+The dataset used in this project is **AdventureWorks**, a sample database from Microsoft that contains sales, product, and customer information. This dataset is commonly used for learning and testing data engineering workflows.
+
 
 ## Project Phases  
 
